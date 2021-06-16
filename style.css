@@ -1,0 +1,70 @@
+.body {
+  background-color: lavenderblush;
+}
+
+.header {
+  text-align: center;
+}
+
+.image {
+  Display: block;
+  Margin-left: auto;
+  Margin-right: auto;
+  Width: 300px;
+}
+
+#paragraph {
+  font-size: 150%;
+}
+
+#button {
+  font-size: 120%;
+}
+
+.div-one {
+  text-align: center;
+  border: 15px solid pink;
+  border-style: dotted;
+  margin: 20px;
+  padding: 15px;
+}
+
+.div-two {
+  text-align: center;
+  margin: 15px;
+  border: 15px solid pink;
+  border-style: double;
+  padding: 15px;
+}
+
+#input {
+  font-size: 120%;
+}
+
+#button-two {
+  font-size: 120%;
+}
+
+#answer {
+  font-size: 120%;
+}
+
+.div-three {
+  text-align: center;
+}
+
+#hint-button {
+  font-size: 100%;
+}
+
+#hint-text {
+  font-size: 120%;
+}
+
+.link {
+  text-align: center;
+}
+
+.div-four {
+  text-align: center;
+}
